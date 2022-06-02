@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-www.serri.com.br | Full Deployment Analyst. Jr Data Analyst. Entrepreneur. I am passionate about teaching, learning and transforming data into insights and actions, I have experience in deployment, data analysis and development.
+www.serri.com.br | Full Deployment Analyst. Jr Data Analyst. Entrepreneur. 
+I am passionate about teaching, learning and transforming data into insights and actions, I have experience in deployment, data analysis and development.
 
 Some of my work experiences include managing administrative and relationship areas, working directly in team management, training, hiring and guidance, as well as routines relevant to the commercial and administrative area. I studied for 3 years at the Faculty of Economic Sciences, starting my career transition to data analysis.
 
@@ -15,9 +16,7 @@ I believe in people and that they can transform business, with people and techno
 
 <p align="left">
   
-  Conheça mais sobre o que eu faço: ⤵️
-  
-  *Learn more about what I do*: ⤵️
+  Learn more about what I do: ⤵️
 </p>
 
 
