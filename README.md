@@ -11,10 +11,13 @@ I am currently a Full Deployment Analyst at Magis5 (Platform for integrating Mar
 
 I believe in people and that they can transform business, with people and technology aligned, innovation is certain.</p>
 
-
+--- 
 
 <p align="left">
+  
   Conheça mais sobre o que eu faço: ⤵️
+  
+  *Learn more about what I do*: ⤵️
 </p>
 
 
