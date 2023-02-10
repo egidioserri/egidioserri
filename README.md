@@ -1,25 +1,16 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Education and Training Leader, specialist in ecommerce and marketplaces, data analyst and Entrepreneur. I am passionate about teaching, learning and turning data into insights and actions.
+With experience in the tools and platforms:
 
-<p align="left"> 
-www.serri.com.br | Full Deployment Analyst. Jr Data Analyst. Entrepreneur. 
-I am passionate about teaching, learning and transforming data into insights and actions, I have experience in deployment, data analysis and development.
+- Marketplaces: Mercado Livre, Americanas Marketplace, Shopee, Magazine Luiza, Amazon, Via Varejo, Madeira Madeira, Olist, Aliexpress, Wish, Lojas Colombo, Carrefour and Leroy Merlin.
+- ERP: SAP, TOTVs, SENIOR and Bling.
+- E-commerce Software and Platforms: Magis5, Loja Integrada, Simplo7, Iset and WooCommerce;
+- Communication: Discord, Slack, Anydesk and Team Viewer;
+- Data: Postman, DBeaver, PowerBI and Google Data Studio;
+- LMS: LeadLovers and EAD Platform;
+- I'm a programming student, with knowledge in Python, SQL, HTML, CSS, Javascript (ExpressJS, NodeJS).
 
-Some of my work experiences include managing administrative and relationship areas, working directly in team management, training, hiring and guidance, as well as routines relevant to the commercial and administrative area. I studied for 3 years at the Faculty of Economic Sciences, starting my career transition to data analysis.
+Some of my work experiences include managing administrative and relationship areas, working directly in team management, training, hiring and guidance, in addition to routines related to the commercial and administrative area. I studied Economic Sciences for 3 years, starting my career transition to technology a few years ago.
 
-I'm a programming student, having knowledge in Python, SQL, HTML, CSS, Javascript tools (ExpressJS, NodeJS).
+I am currently the Education and Training Leader at Magis5 (Marketplaces automation platform), a Market Intelligence and Data Analysis student and I manage personal projects such as https://FolhaMineira.com.br (News Platform from the South of Minas Gerais), https://serri.com.br (Design Studio) and https://InstitutoEcommerce.com.br (Platform for news and courses on Ecommerce).
 
-I am currently a Full Deployment Analyst at Magis5 (Platform for integrating Marketplaces), a student of Market Intelligence and Data Analysis and I manage personal projects such as FolhaMineira.com.br (News Platform in the South of Minas Gerais) and Agência Serri (Marketing and Consulting Agency).
-
-I believe in people and that they can transform business, with people and technology aligned, innovation is certain.</p>
-
---- 
-
-<p align="left">
-  
-  Learn more about what I do: ⤵️
-</p>
-
-
-<p align="left">
-  <a href="https://br.linkedin.com/in/egidioserri" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/egidioserri" /></a>
+I believe in people and that they can transform business, with people and technology aligned, innovation is certain.
