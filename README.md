@@ -1,16 +1,15 @@
-Education and Training Leader, specialist in ecommerce and marketplaces, data analyst and Entrepreneur. I am passionate about teaching, learning and turning data into insights and actions.
-With experience in the tools and platforms:
+Especialista em Aprendizado, Comunidade e Comunicação, minha carreira é marcada por uma jornada diversificada e estratégica, unindo experiência prática com aprendizado contínuo. Atuo com os principais marketplaces e plataformas de e-commerce, sistemas ERP, ferramentas de comunicação corporativa e softwares de análise de dados. Além disso, sou fluente em linguagens de programação como Python, SQL e JavaScript, sempre aplicando tecnologia para solucionar desafios complexos. 💻📊
 
-- Marketplaces: Mercado Livre, Americanas Marketplace, Shopee, Magazine Luiza, Amazon, Via Varejo, Madeira Madeira, Olist, Aliexpress, Wish, Lojas Colombo, Carrefour and Leroy Merlin.
-- ERP: SAP, TOTVs, SENIOR and Bling.
-- E-commerce Software and Platforms: Magis5, Loja Integrada, Simplo7, Iset and WooCommerce;
-- Communication: Discord, Slack, Anydesk and Team Viewer;
-- Data: Postman, DBeaver, PowerBI and Google Data Studio;
-- LMS: LeadLovers and EAD Platform;
-- I'm a programming student, with knowledge in Python, SQL, HTML, CSS, Javascript (ExpressJS, NodeJS).
+Desde 2021, lidero a área de Educação na Magis5, uma plataforma de automação para e-commerce e marketplaces. Paralelamente, fundei o Instituto Ecommerce, onde compartilho insights e estratégias para capacitar profissionais do setor. Sou apaixonado por ensinar, aprender e transformar dados em insights acionáveis que impactam diretamente os resultados de negócios. 🚀
 
-Some of my work experiences include managing administrative and relationship areas, working directly in team management, training, hiring and guidance, in addition to routines related to the commercial and administrative area. I studied Economic Sciences for 3 years, starting my career transition to technology a few years ago.
+Atualmente, aprofundo meus conhecimentos em Marketing de Growth e estratégias baseadas em comunidades, com foco em criar soluções escaláveis que alavancam o sucesso de empresas e indivíduos. 📈
 
-I am currently the Education and Training Leader at Magis5 (Marketplaces automation platform), a Market Intelligence and Data Analysis student and I manage personal projects such as https://InstitutoEcommerce.com.br (Platform for news and courses on Ecommerce).
+Minha trajetória abrange:
+ - Gestão de Equipes e Relacionamento: Experiência sólida em treinamento, contratação e liderança estratégica. 👥
+ - Análise e Transformação de Dados: Especialista em transformar dados em estratégias acionáveis para empresas. 📊
+ - E-commerce e Marketplaces: Domínio de operações, vendas e estratégias em plataformas como Mercado Livre, Shopee, Amazon e Magalu. 🛒
+ - Educação e Capacitação: Desenvolvimento de programas de treinamento corporativo que geram impacto direto nos resultados organizacionais. 🎓
 
-I believe in people and that they can transform business, with people and technology aligned, innovation is certain.
+Pai orgulhoso do Luiz e da Chloe, acredito no poder transformador das pessoas e da tecnologia. Quando alinhados, a inovação se torna inevitável. 👨‍👧‍👦✨
+
+Minha visão é criar soluções que unem aprendizado e tecnologia para impactar positivamente o crescimento de negócios e comunidades.
